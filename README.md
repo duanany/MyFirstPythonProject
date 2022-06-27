@@ -1,2 +1,2 @@
 # MyFirstPythonProject
-Python
+Python training
